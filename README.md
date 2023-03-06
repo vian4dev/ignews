@@ -21,15 +21,20 @@
   <img src="https://www.rocketseat.com.br/assets/logos/ignite-reduced.svg" width="150" height="150" alt="Ignite">
 </div>
 
-# ig.news
+# Ignews
 
 ## ✒️ Descrição
+_(Em breve)_
 
 ## 🚀 Tecnologias utilizadas
+_(Em breve)_
 
 ## 📷 Demostração
+Apresentação da tela do aplicativo.
+_(Em breve)_
 
 ## ⚙️ Instalação
+_(Em breve)_
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
