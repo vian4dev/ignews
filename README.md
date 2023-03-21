@@ -33,7 +33,7 @@ _(Em breve)_
 Apresentação da tela do aplicativo.
 _(Em breve)_
 
-## ⚙️ Instalação
+## 🔥 Instalação
 _(Em breve)_
 
 ## 📝 Licença
